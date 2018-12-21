@@ -7,7 +7,7 @@ Input : A dataset of 100 randomly generated datapoints
 Output : 'k' number of datapoints representing the centroids of the clusters
 '''
 
-import random, math, time, numpy, os
+import random, math, os
 os.system('clear')
 
 
