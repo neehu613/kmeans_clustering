@@ -1,0 +1,8 @@
+{
+	"chest_init" : 4600,
+	"chest_fin" : 5100,
+	"length_init" : 7200,
+	"length_fin" : 7500,
+	"samples" : 100,
+	"min" : 1000000
+}
